@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Benjamin Marinier -->
+<dialog type="dialogue">
+	<box>
+		<name></name>
+		<text>Veux-tu entrer dans la Ville?</text>
+		<avatar></avatar>
+
+    <prompt data="Tuto_sortie">OUI</prompt>
+    <prompt>NON</prompt>
+
+	</box>
+</dialog>

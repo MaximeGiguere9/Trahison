@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Maxime Giguere -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>C'est le moment de vérité! On a toutes les &lt;color=#ffff00&gt;clés&lt;/color&gt; nécessaires pour réactiver le &lt;color=#70ffff&gt;générateur&lt;/color&gt;. Il ne reste plus qu'à les placer. </text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Lisa</name>
+		<text>Veux-tu réactiver le &lt;color=#70ffff&gt;générateur&lt;/color&gt; maintenant? </text>
+		<avatar></avatar>
+
+    <prompt data="MQ_ConfirmationGenerateurActif">OUI</prompt>
+    <prompt>NON</prompt>
+
+	</box>
+</dialog>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Maxime Giguere -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>Je sens une &lt;color=#ffff00&gt;clé&lt;/color&gt; sur un des toits. Malheureusement, il n'y a pas de ponts, alors &lt;color=#9999ff&gt;il va falloir être agile&lt;/color&gt; pour l'obtenir. </text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Lisa</name>
+		<text>Fais attention, Alex! </text>
+		<avatar></avatar>
+	</box>
+</dialog>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Maxime Giguere -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>On a déjà obtenu la clé qui se trouvait dans les égouts, et je ne sens pas de force additionnelle à l'intérieur. Tu n'as aucune raison d'y retourner et mettre ta vie en danger. </text>
+		<avatar></avatar>
+	</box>
+</dialog>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Maxime Giguere -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>Je sens une faible présence dans les égouts. Une &lt;color=#ffff00&gt;clé&lt;/color&gt; se trouve peut-être dans le fond.</text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Lisa</name>
+		<text>Par contre, &lt;color=#00ff00&gt;l'air n'est probablement pas très sain.&lt;/color&gt; Je n'aurai pas de problème avec ma magie, mais ce sera sûrement dangereux pour toi.
+		</text>
+		<avatar></avatar>
+	</box>
+
+	<box>
+		<name>Lisa</name>
+		<text>Tu ne dois pas rester dans les égouts trop longtemps. Il va falloir se dépêcher de trouver la &lt;color=#ffff00&gt;clé&lt;/color&gt; et de sortir. </text>
+		<avatar></avatar>
+	</box>
+
+	<box>
+		<name>Lisa</name>
+		<text>Veux-tu entrer dans les égouts?</text>
+		<avatar></avatar>
+
+    <prompt data="SQ1_debut">OUI</prompt>
+    <prompt>NON</prompt>
+
+	</box>
+</dialog>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Maxime Giguere -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>As-tu besoin de prendre un peu d'air?</text>
+		<avatar></avatar>
+
+    <prompt data="abandon">OUI</prompt>
+    <prompt>NON</prompt>
+
+	</box>
+</dialog>

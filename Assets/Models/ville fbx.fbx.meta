@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 692962906f11e1249a6bf7b09f6e2150
+timeCreated: 1512578390
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: appart
+    100002: balcon_double
+    100004: batisse
+    100006: eglise
+    100008: floatie
+    100010: gratte_ciel_1
+    100012: gratte_ciel_2
+    100014: gratte_ciel_2_balcon
+    100016: gratte_ciel_3
+    100018: mur
+    100020: mur1
+    100022: pCube10
+    100024: pCube11
+    100026: pCube14
+    100028: pCylinder3
+    100030: pCylinder4
+    100032: plateau
+    100034: plateau1
+    100036: plateform17
+    100038: polySurface4
+    100040: pSphere8
+    100042: route
+    100044: route_base
+    100046: stand
+    100048: stand1
+    100050: stand2
+    100052: //RootNode
+    400000: appart
+    400002: balcon_double
+    400004: batisse
+    400006: eglise
+    400008: floatie
+    400010: gratte_ciel_1
+    400012: gratte_ciel_2
+    400014: gratte_ciel_2_balcon
+    400016: gratte_ciel_3
+    400018: mur
+    400020: mur1
+    400022: pCube10
+    400024: pCube11
+    400026: pCube14
+    400028: pCylinder3
+    400030: pCylinder4
+    400032: plateau
+    400034: plateau1
+    400036: plateform17
+    400038: polySurface4
+    400040: pSphere8
+    400042: route
+    400044: route_base
+    400046: stand
+    400048: stand1
+    400050: stand2
+    400052: //RootNode
+    2300000: appart
+    2300002: balcon_double
+    2300004: batisse
+    2300006: eglise
+    2300008: gratte_ciel_1
+    2300010: gratte_ciel_2
+    2300012: gratte_ciel_2_balcon
+    2300014: gratte_ciel_3
+    2300016: mur
+    2300018: mur1
+    2300020: pCube11
+    2300022: pCube14
+    2300024: pCylinder3
+    2300026: pCylinder4
+    2300028: plateau
+    2300030: plateau1
+    2300032: plateform17
+    2300034: polySurface4
+    2300036: pSphere8
+    2300038: route
+    2300040: route_base
+    2300042: stand
+    2300044: stand1
+    2300046: stand2
+    3300000: appart
+    3300002: balcon_double
+    3300004: batisse
+    3300006: eglise
+    3300008: gratte_ciel_1
+    3300010: gratte_ciel_2
+    3300012: gratte_ciel_2_balcon
+    3300014: gratte_ciel_3
+    3300016: mur
+    3300018: mur1
+    3300020: pCube11
+    3300022: pCube14
+    3300024: pCylinder3
+    3300026: pCylinder4
+    3300028: plateau
+    3300030: plateau1
+    3300032: plateform17
+    3300034: polySurface4
+    3300036: pSphere8
+    3300038: route
+    3300040: route_base
+    3300042: stand
+    3300044: stand1
+    3300046: stand2
+    4300000: route
+    4300002: mur
+    4300004: stand
+    4300006: stand1
+    4300008: stand2
+    4300010: balcon_double
+    4300012: appart
+    4300014: plateau
+    4300016: gratte_ciel_1
+    4300018: gratte_ciel_2_balcon
+    4300020: gratte_ciel_2
+    4300022: pCube11
+    4300024: pSphere8
+    4300026: gratte_ciel_3
+    4300028: batisse
+    4300030: eglise
+    4300032: plateform17
+    4300034: route_base
+    4300036: plateau1
+    4300038: polySurface4
+    4300040: pCylinder3
+    4300042: pCylinder4
+    4300044: pCube14
+    4300046: mur1
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_maison_vitre
+    second: {fileID: 2100000, guid: c69bcbaebd77d254480a3914b9662f96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ballon
+    second: {fileID: 2100000, guid: 15025daad63babd47a00d5f7df32fb0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn19
+    second: {fileID: 2100000, guid: eaba3fbae4bbe504fb674d8352ce1be2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brick_maison
+    second: {fileID: 2100000, guid: 3db4fc798c1dce847a7d748a3e5cb0ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: complex_2_bronze
+    second: {fileID: 2100000, guid: 1a6cb3f4e2e462d40bcd98eb9698a7d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: complex_2_toit
+    second: {fileID: 2100000, guid: 033d22dc86977954289f8cad8dc6dd44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: complex_3_acier
+    second: {fileID: 2100000, guid: cb8c7cdb069a61345987e95b9eb605d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: complex_3_armature
+    second: {fileID: 2100000, guid: 5d0c5de82bd50414988ccafa3f2890a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: complex_3_cuivre
+    second: {fileID: 2100000, guid: 75107d51ff4cec8499411ab135cb2805, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: complex_toit
+    second: {fileID: 2100000, guid: 87bab40f103021d47b3d389e1b7c8324, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: complex_vert
+    second: {fileID: 2100000, guid: 3c5e62d81911dee41b9b3153d8974505, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ecole_brick
+    second: {fileID: 2100000, guid: 8fe0d8f5b94563e40afaec12d520d762, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ecole_cadre
+    second: {fileID: 2100000, guid: 58cc997a6ac3bf343ab234b322aae59a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ecole_toit
+    second: {fileID: 2100000, guid: c49d92c7df30c9044979e0ecc6fcf205, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eglise_brick
+    second: {fileID: 2100000, guid: 60892abf6996f58469b3970010177f2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eglise_toit
+    second: {fileID: 2100000, guid: 29fb7358546e3864d8d24ea04f7af53a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gratte_1_acier
+    second: {fileID: 2100000, guid: c7ddf5d0170bb2a4a9919434f9cfc642, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gratte_1_or
+    second: {fileID: 2100000, guid: 34e722f025f575146937e87ff8b779dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gratte_3_acier
+    second: {fileID: 2100000, guid: 1d938406af3c03447b05bdebf89f3637, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gratte_3_platteforme
+    second: {fileID: 2100000, guid: 34bfb29c7f541904eab164d25db6bd38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gratte_ciel_2_acier_depolie
+    second: {fileID: 2100000, guid: e35aa94af8eb024498b33217a31372de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gratte_ciel_2_bronze
+    second: {fileID: 2100000, guid: 43282ea53460e41408e601757925a43a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gratte_ciel_2_platte_form
+    second: {fileID: 2100000, guid: 5b8c322003b3ba04589b7a24af3f5c3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: e5fdf0a1dea3db3409d5e488d8ebe41a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maison_balcon
+    second: {fileID: 2100000, guid: ef04c2ea0607a3048ad52279e6ee6e62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maison_cadre_cuivre
+    second: {fileID: 2100000, guid: 245cf5a4da15ef046b4f73e7ea903b14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maison_toit
+    second: {fileID: 2100000, guid: a4e300dbca5f6c8469005ea96752842e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: platform_cuivre
+    second: {fileID: 2100000, guid: 774518d5e56aa4b42983d5b02e9b1962, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: platforme_acier
+    second: {fileID: 2100000, guid: 04cc86e037c0984419a004cda2cdccfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: platforme_conduit
+    second: {fileID: 2100000, guid: 5a075b934dcdde84b9c6c115ec8fc58d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: platforme_toit
+    second: {fileID: 2100000, guid: 7f6f0429dbb7afa4bbe10ea82d7c68c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porte_ciel
+    second: {fileID: 2100000, guid: 4907dd16acb90d94fb18642fafcf5b7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unwrapChekcerShader
+    second: {fileID: 2100000, guid: 49433809c2a71f14c86de07e36feaf1c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9b65df17ac76ad7428736ea3f66fb58d
+timeCreated: 1507726524
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CYBERTOOTH
+  fontNames:
+  - CYBERTOOTH
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

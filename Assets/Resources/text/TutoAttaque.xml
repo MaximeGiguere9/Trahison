@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Olivier Doyle-Turcotte -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>Hmm... Il y a quelque chose d'anormal dans les environs ...</text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Lisa</name>
+		<text>Attenttion! ATTENTION!!! Alex! Un Catalézard arrive.</text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Lisa</name>
+		<text>Pour attaquer, utilise ta touche d'attaque pour infliger des dégats à ce monstre!</text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Lisa</name>
+		<text>Fait attention, lui aussi peut attaquer!!</text>
+		<avatar></avatar>
+	</box>
+</dialog>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Maxime Giguere -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>Le &lt;color=#70ffff&gt;générateur&lt;/color&gt; ne fonctionne plus. On dirait qu'il a été saboté... </text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Lisa</name>
+		<text>Sans le &lt;color=#70ffff&gt;générateur&lt;/color&gt;, les défenses de la ville sont inutiles contre les catalézards. Tu dois absolument le réactiver, Alex! </text>
+		<avatar></avatar>
+	</box>
+  <box>
+    <name>Lisa</name>
+    <text>On a besoin des trois &lt;color=#ffff00&gt;clés&lt;/color&gt; pour réactiver le &lt;color=#70ffff&gt;générateur&lt;/color&gt;. Mais où sont-elles? </text>
+    <avatar></avatar>
+  </box>
+	<box>
+		<name>Lisa</name>
+		<text>Elles ont dû êtres éparpillées à travers la ville durant l'attaque. &lt;color=#ff7070&gt;Je devrais pouvoir ressentir leur puissance si on s'en rapproche assez.&lt;/color&gt; Allons-y, on a pas de temps à perdre! </text>
+		<avatar></avatar>
+	</box>
+</dialog>

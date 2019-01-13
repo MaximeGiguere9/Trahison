@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Maxime Giguere -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>Allez, laissons ces égouts dangereux derrière. </text>
+		<avatar></avatar>
+	</box>
+</dialog>

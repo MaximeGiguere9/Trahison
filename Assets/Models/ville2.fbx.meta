@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 2d746f0bcaca1364da876f2fa4e078c1
+timeCreated: 1510770627
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: appart
+    100002: balcon_double
+    100004: batisse
+    100006: floatie
+    100008: gratte_ciel_1
+    100010: gratte_ciel_2
+    100012: gratte_ciel_2_balcon
+    100014: gratte_ciel_3
+    100016: maison
+    100018: mur
+    100020: observatoir
+    100022: pCube10
+    100024: pCube11
+    100026: pCylinder1
+    100028: pCylinder2
+    100030: pCylinder3
+    100032: pCylinder4
+    100034: plateau
+    100036: plateau1
+    100038: plateform17
+    100040: polySurface1
+    100042: polySurface2
+    100044: polySurface3
+    100046: polySurface4
+    100048: polySurface4 1
+    100050: pSphere8
+    100052: route
+    100054: route_base
+    100056: stand
+    100058: stand1
+    100060: stand2
+    100062: transform1
+    100064: transform2
+    100066: transform3
+    100068: transform4
+    100070: transform5
+    100072: transform6
+    100074: transform7
+    100076: transform8
+    100078: //RootNode
+    100080: "\xE9glise"
+    400000: appart
+    400002: balcon_double
+    400004: batisse
+    400006: floatie
+    400008: gratte_ciel_1
+    400010: gratte_ciel_2
+    400012: gratte_ciel_2_balcon
+    400014: gratte_ciel_3
+    400016: maison
+    400018: mur
+    400020: observatoir
+    400022: pCube10
+    400024: pCube11
+    400026: pCylinder1
+    400028: pCylinder2
+    400030: pCylinder3
+    400032: pCylinder4
+    400034: plateau
+    400036: plateau1
+    400038: plateform17
+    400040: polySurface1
+    400042: polySurface2
+    400044: polySurface3
+    400046: polySurface4
+    400048: polySurface4 1
+    400050: pSphere8
+    400052: route
+    400054: route_base
+    400056: stand
+    400058: stand1
+    400060: stand2
+    400062: transform1
+    400064: transform2
+    400066: transform3
+    400068: transform4
+    400070: transform5
+    400072: transform6
+    400074: transform7
+    400076: transform8
+    400078: //RootNode
+    400080: "\xE9glise"
+    2300000: appart
+    2300002: balcon_double
+    2300004: batisse
+    2300006: gratte_ciel_1
+    2300008: gratte_ciel_2
+    2300010: gratte_ciel_2_balcon
+    2300012: gratte_ciel_3
+    2300014: mur
+    2300016: pCube11
+    2300018: pCylinder3
+    2300020: pCylinder4
+    2300022: plateau
+    2300024: plateau1
+    2300026: plateform17
+    2300028: polySurface4
+    2300030: pSphere8
+    2300032: route
+    2300034: route_base
+    2300036: stand
+    2300038: stand1
+    2300040: stand2
+    2300042: "\xE9glise"
+    3300000: appart
+    3300002: balcon_double
+    3300004: batisse
+    3300006: gratte_ciel_1
+    3300008: gratte_ciel_2
+    3300010: gratte_ciel_2_balcon
+    3300012: gratte_ciel_3
+    3300014: mur
+    3300016: pCube11
+    3300018: pCylinder3
+    3300020: pCylinder4
+    3300022: plateau
+    3300024: plateau1
+    3300026: plateform17
+    3300028: polySurface4
+    3300030: pSphere8
+    3300032: route
+    3300034: route_base
+    3300036: stand
+    3300038: stand1
+    3300040: stand2
+    3300042: "\xE9glise"
+    4300000: route
+    4300002: mur
+    4300004: stand
+    4300006: stand1
+    4300008: stand2
+    4300010: balcon_double
+    4300012: appart
+    4300014: plateau
+    4300016: gratte_ciel_1
+    4300018: gratte_ciel_2_balcon
+    4300020: gratte_ciel_2
+    4300022: pCube11
+    4300024: pSphere8
+    4300026: gratte_ciel_3
+    4300028: batisse
+    4300030: "\xE9glise"
+    4300032: plateform17
+    4300034: route_base
+    4300036: plateau1
+    4300038: polySurface4
+    4300040: pCylinder3
+    4300042: pCylinder4
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface13
+    second: {fileID: 2100000, guid: 4ec8b5767f82d754e9a3a3f2c7a28caa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_acier_depoli2
+    second: {fileID: 2100000, guid: 577d2306938426c46b1ed731e18481e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_acier_depoli5
+    second: {fileID: 2100000, guid: 55d96b0fb79fa944c97966863dcea580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_acier_depoli_batisse
+    second: {fileID: 2100000, guid: 2b1a0578ed01c044bb334d8e9ad196f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_armature
+    second: {fileID: 2100000, guid: 11d972bf628dd18438f6e34760113725, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_brick
+    second: {fileID: 2100000, guid: a34e9a1fdda09b94ca5a9d02611e106f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_brick_ecole
+    second: {fileID: 2100000, guid: ab31ef66583297f41bb10c1d6b9a5f03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_brick_maison
+    second: {fileID: 2100000, guid: 0e0a891a2dab97c4c8d2b1ee4f958a2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_bronze1
+    second: {fileID: 2100000, guid: 6f7ca1460933dd94bba3224ee78d57c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_complex_2_bronze
+    second: {fileID: 2100000, guid: a51defb6c892b444eaa98d5e682417c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_complex_2_toit
+    second: {fileID: 2100000, guid: 1fe6793d2b468664dbf2bca086011ee5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_complex_vert
+    second: {fileID: 2100000, guid: cdb3674e2de1fec43ac66acda0350ccd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_cuire
+    second: {fileID: 2100000, guid: 6f8ecc97a13bd9c49afdc04cef9fe122, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_cuivre
+    second: {fileID: 2100000, guid: 7b673b8765f9b8f4badd6f93ac56c180, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_cuivre_oxider
+    second: {fileID: 2100000, guid: 602458ea22158024baba7408eab4baaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_cuivre_oxider_eglise
+    second: {fileID: 2100000, guid: 2f64fccee2d9a7442b1d267100ab248a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_ecole_cadre
+    second: {fileID: 2100000, guid: 0963e35c93b6e3748bc6980c155561b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_ecole_toit
+    second: {fileID: 2100000, guid: a77f9cdf50adfee478570deb0854fb48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_gratte_1_acier
+    second: {fileID: 2100000, guid: fdb20532d0b2718428523e26ca6ad7db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_gratte_1_or
+    second: {fileID: 2100000, guid: 34172db8560996647bc3d280a989c4f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_gratte_3_acier
+    second: {fileID: 2100000, guid: 335668c5c7b42664c9eb3a86ce069b6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_gratte_3_platteforme
+    second: {fileID: 2100000, guid: 89648f5b710d95d41aa341aeae062aeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_maison_balcon
+    second: {fileID: 2100000, guid: 9ff1b9685ffc8ed4a996aa7e6a2026e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_maison_cadre
+    second: {fileID: 2100000, guid: 0cd4b5c88e752f148aff72755248b6c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_maison_toit
+    second: {fileID: 2100000, guid: 123ee00e7f55fb34cb632ee6141bd228, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_maison_vitre
+    second: {fileID: 2100000, guid: 7751ba902932b1547a1f58798c7770ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_platform_cuivre
+    second: {fileID: 2100000, guid: 91872cadc62e1c24a807c37c2207b883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_platforme_acier
+    second: {fileID: 2100000, guid: 11de340ac6772ff4b9fd8eb853bd2847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_platforme_conduit
+    second: {fileID: 2100000, guid: cc5fcf2421fd0ba43a1cc6b0c17090cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ai_platforme_toit
+    second: {fileID: 2100000, guid: 21f3f6d9b72a276479447d7113f0bfe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 9e42f22150c6b524788a7f1a67ec8486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unwrapChekcerShader
+    second: {fileID: 2100000, guid: 47209f4cbad375f408dd8600cbaece07, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

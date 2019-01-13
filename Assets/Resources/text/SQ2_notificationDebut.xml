@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Maxime Giguere -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>Je sens une &lt;color=#ffff00&gt;clé&lt;/color&gt; à proximité. Peut-être qu'un des lézards de ce groupe l'a prise? </text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Lisa</name>
+		<text>Je ne crois pas qu'ils vont accepter de te la retourner. &lt;color=#ff7070&gt;Tu vas devoir la reprendre de force!&lt;/color&gt; </text>
+		<avatar></avatar>
+	</box>
+</dialog>

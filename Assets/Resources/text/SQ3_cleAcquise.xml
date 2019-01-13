@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Maxime Giguere -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>T'as trouvé une des &lt;color=#ffff00&gt;clés&lt;/color&gt; du générateur. Bon travail, Alex!</text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Lisa</name>
+		<text>Mais qu'est-ce que cette clé faisait ici? Les monstres ne semblent pas avoir atteint ce point. </text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Lisa</name>
+		<text>Peu importe. C'est un pas de plus vers le sauvetage de la ville! Le prochain défi, c'est juste de redescendre... </text>
+		<avatar></avatar>
+	</box>
+</dialog>

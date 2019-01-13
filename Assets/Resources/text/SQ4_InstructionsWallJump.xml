@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Lilian Vinel -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>Pour t'accrocher sur un mur, saute vers lui en courant. Tu peux sauter d'un mur à un autre quand tu es accroché en choisissant une direction avec les touches de déplacements. </text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Lisa</name>
+		<text>Vas-y! Essaie sur l'obstacle qui se trouve devant toi. </text>
+		<avatar></avatar>
+	</box>
+</dialog>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Maxime Giguere -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>Veux-tu retourner dans les égouts?</text>
+		<avatar></avatar>
+
+    <prompt data="SQ1_debut">OUI</prompt>
+    <prompt>NON</prompt>
+
+	</box>
+</dialog>

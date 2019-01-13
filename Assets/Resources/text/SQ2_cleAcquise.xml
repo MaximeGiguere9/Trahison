@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Maxime Giguere -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>Ew, un d'eux l'avait mangé entière! Quels barbares ne jettent pas le métal avant de manger le cristal. </text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Lisa</name>
+		<text>Tu leur as fait une faveur en les tranchant. L'indigestion aurait été beaucoup plus douloureuse! </text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Lisa</name>
+		<text>Mais bon, le plus important, c'est qu'on a retrouvé une des &lt;color=#ffff00&gt;clés&lt;/color&gt;! </text>
+		<avatar></avatar>
+	</box>
+</dialog>

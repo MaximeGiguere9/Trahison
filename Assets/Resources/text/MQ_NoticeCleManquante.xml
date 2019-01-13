@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Maxime Giguere -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>Il nous manque encore une &lt;color=#ffff00&gt;clé&lt;/color&gt;. Je ne suis pas sûr où elle est, mais il ne faut pas arrêter de chercher! </text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Lisa</name>
+		<text>&lt;color=#ff7070&gt;Je devrais pouvoir ressentir leur puissance si on s'en rapproche assez.&lt;/color&gt; Allons-y, on a pas de temps à perdre! </text>
+		<avatar></avatar>
+	</box>
+</dialog>

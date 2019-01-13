@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Maxime Giguere -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>T'as trouvé une des &lt;color=#ffff00&gt;clés&lt;/color&gt; du générateur. Bon travail, Alex!</text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Lisa</name>
+		<text>Normalement, je saliverais à l'idée d'obtenir un cristal dense comme celui-ci, mais ces égouts m'ont vraiment coupé l'appétit. </text>
+		<avatar></avatar>
+	</box>
+</dialog>

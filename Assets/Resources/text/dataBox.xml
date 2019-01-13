@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- test/debug -->
+<dialog type="debug">
+	<box>
+		<name>Test Box</name>
+		<text>This box returns a value.</text>
+		<avatar></avatar>
+
+    <prompt data="test">OK</prompt>
+    <prompt>NO</prompt>
+
+	</box>
+</dialog>

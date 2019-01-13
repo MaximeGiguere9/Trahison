@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Maxime Giguere -->
+<dialog type="dialogue">
+	<box>
+		<name></name>
+		<text>Veux-tu retourner au niveau du sol?</text>
+		<avatar></avatar>
+
+    <prompt data="SQ3_abandon">OUI</prompt>
+    <prompt>NON</prompt>
+
+	</box>
+</dialog>

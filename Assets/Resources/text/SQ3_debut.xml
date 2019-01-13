@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Maxime Giguere -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>Ce bâtiment semble être connecté à une des tours. On peut &lt;color=#9999ff&gt;aller en hauteur&lt;/color&gt; pour avoir une meilleure vue de la ville. </text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Lisa</name>
+		<text>Veux-tu aller en hauteur? </text>
+		<avatar></avatar>
+
+    <prompt data="SQ3_debut">OUI</prompt>
+    <prompt>NON</prompt>
+
+	</box>
+</dialog>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- test/debug -->
+<dialog type="debug">
+	<box>
+		<name>Text Box</name>
+		<text>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+&lt;b&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco &lt;size=30&gt;&lt;color=#0000ff&gt;laboris&lt;/color&gt;&lt;/size&gt; nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in &lt;/b&gt;
+reprehenderit in voluptate velit &lt;size=16&gt;esse cillum dolore eu fugiat nulla pariatur.&lt;/size&gt; Excepteur sint occaecat cupidatat non proident, sunt in 
+culpa qui officia deserunt mollit anim id est laborum.</text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Text Box 2</name>
+		<text>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, &lt;color=#0000ff&gt;eaque ipsa 
+quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
+aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.&lt;/color&gt; Neque porro quisquam est, 
+qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore 
+magnam aliquam quaerat voluptatem.</text>
+		<avatar></avatar>
+    <prompt link="testbox">OK</prompt>
+    <prompt>MAYBE</prompt>
+    <prompt>WAIT</prompt>
+    <prompt data="gattai">WHAT</prompt>
+    <prompt data="data test">NO</prompt>
+	</box>
+</dialog>

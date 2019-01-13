@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Maxime Giguere -->
+<dialog type="dialogue">
+	<box>
+		<name>Lisa</name>
+		<text>On a retrouvé toutes les &lt;color=#ffff00&gt;clés&lt;/color&gt;! Le générateur pourra redémarrer. Vite, sauvons la ville! </text>
+		<avatar></avatar>
+
+	</box>
+</dialog>

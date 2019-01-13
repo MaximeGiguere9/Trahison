@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- test/debug -->
+<dialog type="debug">
+	<box>
+		<name>Test Box</name>
+		<text>This is the test box text box.</text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Test Box</name>
+		<text>This is an example of working multi-box script.</text>
+		<avatar></avatar>
+	</box>
+	<box>
+		<name>Still the same box</name>
+		<text>This is the last box</text>
+		<avatar></avatar>
+	</box>
+</dialog>
